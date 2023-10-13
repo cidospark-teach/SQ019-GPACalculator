@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.UI", "GPACalculator\GPACalculator.UI.csproj", "{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPACalculator.Logic", "GPACalculatorLogic\GPACalculator.Logic.csproj", "{E288CB90-A29D-499C-9BA9-44F192B91265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E288CB90-A29D-499C-9BA9-44F192B91265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E288CB90-A29D-499C-9BA9-44F192B91265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E288CB90-A29D-499C-9BA9-44F192B91265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E288CB90-A29D-499C-9BA9-44F192B91265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66049CB-0603-4683-9C8F-A8E59A35C863}
+	EndGlobalSection
+EndGlobal

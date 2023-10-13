@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{E2308B16-AC33-4D4B-AC61-D6A5BC877AA2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GPACalculator/Program.cs">
+    <Files>
+      <File FileName="GPACalculator/ViewModel/InputForm.cs" Line="1" Column="1" />
+      <File FileName="GPACalculatorLogic/Models/GradeSystem.cs" />
+      <File FileName="GPACalculatorLogic/Models/Report.cs" />
+      <File FileName="GPACalculatorLogic/Models/Result.cs" />
+      <File FileName="GPACalculatorLogic/Core/Calculator.cs" />
+      <File FileName="GPACalculator/Program.cs" Line="95" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GPACalculator" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GPACalculator.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

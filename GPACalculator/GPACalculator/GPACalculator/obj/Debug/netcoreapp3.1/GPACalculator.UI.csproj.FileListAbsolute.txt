@@ -1,0 +1,49 @@
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.exe
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.deps.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.runtimeconfig.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.runtimeconfig.dev.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csprojAssemblyReference.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.AssemblyInfoInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.AssemblyInfo.cs
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csproj.CoreCompileInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csproj.CopyComplete
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.genruntimeconfig.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.deps.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.runtimeconfig.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.runtimeconfig.dev.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.UI.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/bin/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.AssemblyInfo.cs
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.csproj.CopyComplete
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculator/obj/Debug/netcoreapp3.1/GPACalculator.UI.genruntimeconfig.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.exe
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.deps.json
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.runtimeconfig.json
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.runtimeconfig.dev.json
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.dll
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.UI.pdb
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.Logic.dll
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\bin\Debug\netcoreapp3.1\GPACalculator.Logic.pdb
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.csproj.AssemblyReference.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.AssemblyInfoInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.AssemblyInfo.cs
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.csproj.CopyComplete
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.dll
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.pdb
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculator\obj\Debug\netcoreapp3.1\GPACalculator.UI.genruntimeconfig.cache

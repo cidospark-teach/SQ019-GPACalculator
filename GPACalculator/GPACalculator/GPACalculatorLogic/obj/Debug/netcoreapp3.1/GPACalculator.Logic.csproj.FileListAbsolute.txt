@@ -1,0 +1,28 @@
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.deps.json
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.csprojAssemblyReference.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.AssemblyInfoInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.AssemblyInfo.cs
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.csproj.CoreCompileInputs.cache
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+C:/Users/cidos/Source/Mentorship and Training/SQ007/Week 1/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.deps.json
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/bin/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.csproj.AssemblyReference.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.AssemblyInfoInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.AssemblyInfo.cs
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.dll
+/Users/macbook/Projects/SQ009/Week4/Weekly Task/GPACalculator/GPACalculatorLogic/obj/Debug/netcoreapp3.1/GPACalculator.Logic.pdb
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.deps.json
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.dll
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.pdb
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.AssemblyInfoInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.AssemblyInfo.cs
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.dll
+C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.pdb
