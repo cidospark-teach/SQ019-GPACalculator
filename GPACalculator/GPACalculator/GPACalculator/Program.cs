@@ -9,23 +9,30 @@ namespace GPACalculator.UI
 {
     class Program
     {
+        static int widthOfTable = Console.WindowWidth - 2;
         static void Main(string[] args)
         {
+            Utilities.PrintRow(widthOfTable, "GPA CALCULATOR");
+            Console.WriteLine("\n");
+
             // user input
             var inputs = GetInputs();
 
-            // map inputs to course records
-            var records = new List<CourseRecord>();
-            foreach(var record in inputs.ScoreInputs)
-            {
-                records.Add(new CourseRecord { CourseName = record.CourseName, CourseUnit = record.CourseUnit, Score = record.Score });
-            }
-
-            var cal = new Calculator();
             try
             {
+                // map inputs to course records
+                var records = new List<CourseRecord>();
+                var cal = new Calculator();
+                foreach(var record in inputs.ScoreInputs)
+                {
+                    var targetRecord = new CourseRecord { CourseName = record.CourseName, CourseUnit = record.CourseUnit, Score = record.Score };
+                    var gradedRecord = cal.GetGrade(targetRecord);
+                    var calculatedQP = cal.CalculateQualityPoint(gradedRecord);
+                    records.Add(calculatedQP);
+                }
+
                 // grade student
-                var result = cal.GetResult(records);
+                var result = cal.CalculateGPA(records);
 
                 // map result to report
                 var report = new Report
@@ -55,8 +62,10 @@ namespace GPACalculator.UI
             if(report == null)
                 Console.WriteLine("Report is enpty!");
 
-            int widthOfTable = 85;
             Console.Clear();
+
+            Utilities.PrintRow(widthOfTable, "GPA CALCULATOR");
+            Console.WriteLine("\n");
 
             Utilities.PrintLine(widthOfTable);
             Utilities.PrintRow(widthOfTable, $"RESULT FOR {report.StudentName.ToUpper()}");
