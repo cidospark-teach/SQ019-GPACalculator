@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj": {}
+    "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj": {
+    "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj",
         "projectName": "GPACalculator.Logic",
-        "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj",
+        "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj",
         "packagesPath": "C:\\Users\\hp Envy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\obj\\",
+        "outputPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj": {
+    "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj",
+        "projectUniqueName": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj",
         "projectName": "GPACalculator.UI",
-        "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj",
+        "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator.UI.csproj",
         "packagesPath": "C:\\Users\\hp Envy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculator\\obj\\",
+        "outputPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,7 +82,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -90,11 +90,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj": {
-                "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj"
+              "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj": {
+                "projectPath": "C:\\Users\\hp Envy\\Desktop\\Sq019\\SQ019-GPACalculator\\GPACalculator\\GPACalculator\\GPACalculatorLogic\\GPACalculator.Logic.csproj"
               }
             }
           }
@@ -106,8 +106,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

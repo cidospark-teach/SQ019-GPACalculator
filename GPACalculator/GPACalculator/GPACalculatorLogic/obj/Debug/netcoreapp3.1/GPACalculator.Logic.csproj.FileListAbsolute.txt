@@ -26,3 +26,12 @@ C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\ob
 C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.csproj.CoreCompileInputs.cache
 C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.dll
 C:\Users\hp Envy\Desktop\Sq019\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.pdb
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.deps.json
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.dll
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\bin\Debug\netcoreapp3.1\GPACalculator.Logic.pdb
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.AssemblyInfoInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.AssemblyInfo.cs
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.csproj.CoreCompileInputs.cache
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.dll
+C:\Users\hp Envy\Desktop\Sq019\SQ019-GPACalculator\GPACalculator\GPACalculator\GPACalculatorLogic\obj\Debug\netcoreapp3.1\GPACalculator.Logic.pdb

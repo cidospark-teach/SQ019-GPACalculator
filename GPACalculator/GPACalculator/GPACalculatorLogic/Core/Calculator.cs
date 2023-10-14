@@ -7,7 +7,8 @@ namespace GPACalculator.Logic.Core
 {
     public class Calculator
     {
-
+        public double totalQualityPoint = 0;
+        public double totalCourseUnit = 0;
 
         // calculate quality Point
         public CourseRecord CalculateQualityPoint(CourseRecord record)
@@ -45,32 +46,24 @@ namespace GPACalculator.Logic.Core
 
 
         // calucluate GPA
-        public Result CalculateGPA(List<CourseRecord> records)
+        public void CummulatePoints(CourseRecord record)
         {
-            if (records == null)
+            if (record == null)
                 throw new Exception("Null entry");
 
-            double totalQualityPoint = 0;
-            double totalCourseUnit = 0;
+            totalQualityPoint += record.QualityPoint;
+            totalCourseUnit += record.CourseUnit;
 
-            foreach(var record in records)
-            {
-                totalQualityPoint += record.QualityPoint;
-                totalCourseUnit += record.CourseUnit;
-            }
+        }
 
+        public string CalculateGPA()
+        {
             var gpa = totalQualityPoint / totalCourseUnit;
             // decimal.Round(yourValue, 2, MidpointRounding.AwayFromZero); if i want to return the value in decimal format
             //return gpa.ToString("0.##");    with this formatting I can set to any decimal place. Just depends on the number of # I add after the dot      
-            
-            var output =  gpa.ToString("F");
-            var rs = new Result
-            {
-                CourseRecords = records,
-                GPA = output
-            };
 
-            return rs;
+            return gpa.ToString("F");
+            
         }
 
     }

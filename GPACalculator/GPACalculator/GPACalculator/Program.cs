@@ -28,17 +28,24 @@ namespace GPACalculator.UI
                     var targetRecord = new CourseRecord { CourseName = record.CourseName, CourseUnit = record.CourseUnit, Score = record.Score };
                     var gradedRecord = cal.GetGrade(targetRecord);
                     var calculatedQP = cal.CalculateQualityPoint(gradedRecord);
+                    cal.CummulatePoints(calculatedQP);
                     records.Add(calculatedQP);
                 }
 
                 // grade student
-                var result = cal.CalculateGPA(records);
+                var gpa = cal.CalculateGPA();
+
+                var rs = new Result
+                {
+                    CourseRecords = records,
+                    GPA = gpa
+                };
 
                 // map result to report
                 var report = new Report
                 {
                     StudentName = inputs.StudentName,
-                    Results = new List<Result> { result }
+                    Results = new List<Result> { rs }
                 };
 
                 // print report
@@ -74,18 +81,19 @@ namespace GPACalculator.UI
             Utilities.PrintRow(widthOfTable, "COURSE NAME", "COURSE UNIT", "SCORE", "GRADE", "GRADE POINT", "QUALITY POINT");
             Utilities.PrintLine(widthOfTable);
             
-            foreach(var RP in report.Results[0].CourseRecords)
+            foreach(var RP in report.Results)
             {
-                Utilities.PrintRow(widthOfTable, RP.CourseName, RP.CourseUnit.ToString(), RP.Score.ToString(), RP.Grade.ToString(), RP.GradeUnit.ToString(), RP.QualityPoint.ToString());
+                foreach(var cr in RP.CourseRecords)
+                {
+                    Utilities.PrintRow(widthOfTable, cr.CourseName, cr.CourseUnit.ToString(), cr.Score.ToString(), cr.Grade.ToString(), cr.GradeUnit.ToString(), cr.QualityPoint.ToString());
+                    Utilities.PrintLine(widthOfTable);
+                }
+                Console.WriteLine($"Your GPA is: "+ report.Results[0].GPA);
+                Console.WriteLine("\n");
             }
-            
-            Utilities.PrintLine(widthOfTable);
-
-            Console.WriteLine($"Your GPA is: "+ report.Results[0].GPA);
 
             Console.WriteLine($"\nGPA is calculated using the formula: ");
             Console.WriteLine("GPA = (total QP) / (total course units)");
-
             Console.ReadLine();
         }
 
