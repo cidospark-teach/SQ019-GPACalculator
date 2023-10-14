@@ -9,7 +9,7 @@ namespace GPACalculator.UI
 {
     class Program
     {
-        static int widthOfTable = Console.WindowWidth - 2;
+        static int widthOfTable = Console.WindowWidth - 6;
         static void Main(string[] args)
         {
             Utilities.PrintRow(widthOfTable, "GPA CALCULATOR");
